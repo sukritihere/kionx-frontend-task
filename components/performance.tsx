@@ -13,8 +13,8 @@ export function Performance() {
         <div className="space-y-6">
           <div className="space-y-2">
             <div className="flex justify-between text-xs text-gray-500">
-              <span>Today's Low</span>
-              <span>Today's High</span>
+              <span>Today`s Low</span>
+              <span>Today`s High</span>
             </div>
             <div className="relative px-4 sm:px-8">
               <div className="px-8 sm:px-32">

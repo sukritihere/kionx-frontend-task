@@ -7,7 +7,6 @@ import {
   NewspaperIcon,
   TrendingUp,
   ChevronRight,
-  ChevronLeft,
 } from "lucide-react";
 
 export function Sentiment() {

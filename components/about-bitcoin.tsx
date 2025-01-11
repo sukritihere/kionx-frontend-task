@@ -10,7 +10,7 @@ const AboutBitcoin = () => {
           <div>
             <h3 className="font-semibold mb-2">What is Bitcoin?</h3>
             <p className="text-gray-600 text-sm font-medium leading-relaxed">
-              Bitcoin's price today is US$16,551.82, with a 24-hour trading
+              Bitcoin`s price today is US$16,551.82, with a 24-hour trading
               volume of $19.14 B. BTC is +0.36% in the last 24 hours. It is
               currently -7.70% from its 7-day all-time high of $16,874.12, and
               3.40% from its 7-day all-time low of $16,394.75. BTC has a
