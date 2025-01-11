@@ -7,7 +7,7 @@ export default function Header() {
 
   return (
     <header className="border-b">
-      <div className="container mx-auto px-4 h-16 flex items-center justify-between">
+      <div className=" px-4 sm:px-6 md:px-8 lg:px-10 h-16 flex items-center justify-between">
         <Link href="/" className="flex items-center">
           <img
             src="/image-sk2z2HRJS0TMVeUNWZ4YZTHaJI8Xa1.avif"
